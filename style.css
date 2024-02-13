@@ -1,0 +1,30 @@
+#heading{
+   display: flex;
+   justify-content: center;
+   
+}
+.body{
+    display: flex;
+    justify-content: center;
+}
+
+.game{
+    height: 300px;
+    width: 300px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.choice{
+    height: 70px;
+    width: 70px;
+    background-color:lightcoral;
+    border-radius: 50%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
